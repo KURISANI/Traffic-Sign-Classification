@@ -88,7 +88,9 @@ cd traffic-sign-classification
 ```
 
 ### 2. Install dependencies
+```bash
 pip install -r requirements.txt
+```
 
 ### 3. Run the notebook
 
@@ -105,7 +107,8 @@ pip install -r requirements.txt
 3. The notebook will automatically download the dataset
 
 
-📈 Visualizations
+# 📈 Visualizations
+
 The notebook includes:
 
 -Sample images from each class
@@ -116,7 +119,7 @@ The notebook includes:
 
 -Prediction examples with labels
 
-🔮 Future Improvements
+#🔮 Future Improvements
 
 -Hyperparameter tuning for higher accuracy
 
@@ -128,11 +131,11 @@ The notebook includes:
 
 -Try transfer learning with pre-trained models
 
-🤝 Contributing
+# 🤝 Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-👨‍💻 Author
+# 👨‍💻 Author
 McCauley Mabedhle
 
 Data Scientist | Data Engineer
@@ -143,12 +146,14 @@ LinkedIn: https://www.linkedin.com/in/mccauley-mabedhle-3ab022280/
 
 Email: Kurisanimabedhle@gmail.com
 
-📄 License
+# 📄 License
 This project is open source and available under the MIT License.
 
-🙏 Acknowledgements
+# 🙏 Acknowledgements
 - GTSRB Dataset on Kaggle
 
 - TensorFlow and Keras documentation
 
 - German Traffic Sign Recognition Benchmark paper
+
+## Building models that help machines see and understand the world."
