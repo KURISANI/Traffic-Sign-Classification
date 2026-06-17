@@ -156,4 +156,4 @@ This project is open source and available under the MIT License.
 
 - German Traffic Sign Recognition Benchmark paper
 
-## Building models that help machines see and understand the world."
+## Building models that help machines see and understand the world.
