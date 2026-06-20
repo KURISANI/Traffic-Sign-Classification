@@ -1,6 +1,6 @@
 # 🚦 Traffic Signs Classification with CNN
-
-[![View in nbviewer](https://img.shields.io/badge/View%20in-nbviewer-success?style=for-the-badge&logo=jupyter)](https://nbviewer.org/github/KURISANI/traffic-sign-classification/blob/main/traffic_sign_classification.ipynb)
+)
+[![View in nbviewer](https://img.shields.io/badge/View%20in-nbviewer-success?style=for-the-badge&logo=jupyter)](https://nbviewer.org/github/KURISANI/Traffic-Sign-Classification/blob/main/Traffic_signs_classification.ipynb)
 
 A deep learning project that classifies German traffic signs using a Convolutional Neural Network (CNN) built with TensorFlow and Keras. This model can be used by smart cars to recognize traffic signs in real-time.
 
@@ -141,7 +141,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Since GitHub has file size limits for rendering notebooks, you can view it here:
 
-👉 **[View Notebook on nbviewer](https://nbviewer.org/github/KURISANI/traffic-sign-classification/blob/main/traffic_sign_classification.ipynb)**
+👉 **[View Notebook on nbviewer](https://nbviewer.org/github/KURISANI/Traffic-Sign-Classification/blob/main/Traffic_signs_classification.ipynb)**
 
 Or run it locally:
 ```bash
